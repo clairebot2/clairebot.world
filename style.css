@@ -1,9 +1,11 @@
 @font-face{
   font-family:Pixelpoizz;
-  src:url("./fonts/pixelpoiiz.ttf") format("truetype");
+  src:url("pixelpoiiz.ttf") format("truetype");
   }
 body{
   background-image:url(https://files.catbox.moe/f88u66.JPG);
+  font-family:"Times New Roman",serif;
+  color:#4A3639;
   }
   h1{
     color:#E2498C;
